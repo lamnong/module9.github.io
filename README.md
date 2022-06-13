@@ -61,4 +61,8 @@ https://github.com/lamnong
 Contact Email: nongthanhlam88@gmail.com
 
 
-[DemoVideo]([video/demo.mp4](https://github.com/lamnong/module9.github.io/blob/main/video/demo.mp4))
+
+
+https://user-images.githubusercontent.com/105169641/173282655-39411864-5d92-4194-bb78-6ce79a9a15e4.mp4
+
+
